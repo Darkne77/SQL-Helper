@@ -19,7 +19,13 @@
 				"command": "sql-helper.helloWorld",
 				"title": "Hello World"
 			}
-		]
+		],
+		"snippets": [
+			{
+			  "language": "javascript",
+			  "path": "./snippets.json"
+			}
+		  ]
 	},
 	"scripts": {
 		"vscode:prepublish": "npm run compile",
