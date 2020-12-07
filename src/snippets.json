@@ -1,0 +1,7 @@
+{
+    "Select": {
+      "prefix": "adfSelect",
+      "body": "SELECT ${1:*} \nFROM ${2:TableName}\n$0",
+      "description": "SQL Select"
+    }
+}
